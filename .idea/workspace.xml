@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d861751-c8b6-4d58-93c0-0339a56538c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/grallery/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/grallery/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/protfolio/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/protfolio/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01_pipi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/02_pipi.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +28,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/01_pipi.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/02_pipi.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grallery/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -58,8 +48,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="244">
+              <caret line="79" column="69" selection-start-line="79" selection-start-column="69" selection-end-line="79" selection-end-column="69" />
+              <folding>
+                <element signature="e#13861#13867#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +65,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Bootstrap core</find>
+      <find>&lt;div class=&quot;col-md-4&quot;&gt;</find>
+      <find>&lt;img</find>
+      <find>bd-placeholder-img</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,8 +89,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="673" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="350" />
+    <option name="y" value="20" />
     <option name="width" value="963" />
     <option name="height" value="744" />
   </component>
@@ -154,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="673" y="0" width="963" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24864864" />
@@ -236,8 +238,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="244">
+          <caret line="79" column="69" selection-start-line="79" selection-start-column="69" selection-end-line="79" selection-end-column="69" />
+          <folding>
+            <element signature="e#13861#13867#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
