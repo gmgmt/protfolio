@@ -2,4 +2,5 @@
 
 {% for grallery in grallerys.all %}
 {{grallery.description}}
+<img src="{{grallery.image.url}}">
 {% endfor %}
