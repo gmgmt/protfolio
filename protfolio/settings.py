@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'grallery.apps.GralleryConfig'
+    #    我的app
+    'grallery.apps.GralleryConfig',
+    'blog'
 ]
 
 MIDDLEWARE = [
